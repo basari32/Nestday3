@@ -1,0 +1,9 @@
+h1{
+    color: red;
+}
+button{
+    color: blue;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
